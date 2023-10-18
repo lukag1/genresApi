@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/cgt-onboarding-genres-main.iml" filepath="$PROJECT_DIR$/.idea/cgt-onboarding-genres-main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cgt-onboarding-genres-main/onboarding-genres.iml" filepath="$PROJECT_DIR$/cgt-onboarding-genres-main/onboarding-genres.iml" />
     </modules>
   </component>
 </project>
